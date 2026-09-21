@@ -45,25 +45,23 @@ Restaurant-Sales-Analysis/
 │   └── association_rules.csv
 │
 ├── Data_Warehousing/
-│   ├── Customer_Dim.csv
-│   ├── Date_Dim.csv
-│   ├── Payment_Dim.csv
-│   ├── Product_Dim.csv
-│   ├── Sales_Fact.csv
-│   ├── Restaurant_DW.knwf
-│   └── Restaurant_DW_Report.pdf
-│
-└── README.md
+    ├── Customer_Dim.csv
+    ├── Date_Dim.csv
+    ├── Payment_Dim.csv
+    ├── Product_Dim.csv
+    ├── Sales_Fact.csv
+    ├── Restaurant_DW.knwf
+    └── Restaurant_DW_Report.pdf
 ```
 
 ## 👥 Team
 
 **Team of 4**
 
-* [Your Name]
-* [Team Member 2]
-* [Team Member 3]
-* [Team Member 4]
+* Pooja Gosavi
+* Pranjal Damgude
+* Filza Khan
+* Matun Adak
 
 ## 🎓 Project Type
 
