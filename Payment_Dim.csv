@@ -1,0 +1,5 @@
+Payment_ID,Payment_Method
+1,Online Payment
+2,Credit Card
+3,Debit Card
+4,Cash
